@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">KnyazTestTask</string>
+
+    <!-- LoginFragment -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_empty_email">This email address is empty</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_empty_password">This password is empty</string>
+    <string name="error_short_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="info_loading">Loading…</string>
+    <!-- LandingFragment -->
+    <string name="action_logout">Logout</string>
+    <string name="exit_dialog_body">Are you sure you want to exit?</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="switch_rv_mode">Switch videos display mode</string>
+    <string name="format_date_with_minutes">%d  m</string>
+    <string name="format_date_with_hours">%d h</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="search">Search</string>
+    <string name="error_empty_search">This search text is empty</string>
+    <string name="no_data">No data yet</string>
+    <!--VideoDetailsFragment-->
+    <string name="formatted_video_name">Video name : %1$s</string>
+    <string name="formatted_author_name">Author name : %1$s</string>
+    <string name="formatted_posted_date">Posted date :  %1$s</string>
+    <string name="more">more…</string>
+    <string name="less">less…</string>
+    <string name="comments">Comments : </string>
+</resources>
